@@ -1,5 +1,4 @@
 import React, { useState, useRef } from "react";
-import { Button, TextField } from '@mui/material';
 import "./ToDoTheme.css";
 import darkBannerImage from "./dark-banner-image.jpg";
 import lightBannerImage from "./light-banner-image.jpg";
